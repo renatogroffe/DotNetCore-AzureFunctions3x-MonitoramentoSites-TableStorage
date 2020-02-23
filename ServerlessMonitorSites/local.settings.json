@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "BaseLog": "UseDevelopmentStorage=true",
+    "Sites": "https://github.com|https://stackoverflow.com|https://siteinvalido.com.br",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  }
+}
